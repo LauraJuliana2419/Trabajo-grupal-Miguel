@@ -19,3 +19,6 @@ elif Cantidad_deseada==1:
     print("Usted ha seleccionado\n",Cantidad_deseada,"botella de 1.5L de ",Producto_seleccionado,"\nExitosamente")
 else:
     print("Usted no ha seleccionado ninguna cantidad de ",Producto_seleccionado)
+
+
+#///////////////////////////// prueba carga de datos desde el visual de mi pc
