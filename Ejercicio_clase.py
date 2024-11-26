@@ -3,7 +3,7 @@ print("/////////////////////////////////////////////////////////////////////////
 def descuentos():
     cant=int(input("Escriba la cantidad de unidades del producto que desea comprar: "))
 ##AQUI HABIA UN PROBLEMA CON EL IF PUES HABIAS PUESTO OR >0 POR LO QUE PRATCICAMENTE TOMO TODOS LOS NUMEROS
-##Y VOTABA QUE NO TENIA DESCUENTO YA HICE EL CAMBIO
+##Y ARROJABA QUE NO TENIA DESCUENTO YA HICE EL CAMBIO
     if(cant<=4 or cant==0):
         precioR=4000*cant
         print("Su Compra no tendrá descuento.")
